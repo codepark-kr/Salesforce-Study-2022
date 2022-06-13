@@ -49,7 +49,7 @@ Salesforce를 자발적으로 학습하고, 학습한 내용을 주기적으로 
 
 ### 2-2. 파생 문서
 1. SOQL vs SQL: Best Practices to Query Salesforce Database  
-1-1. [핵심 정리](https://github.com/codepark-kr/Salesforce-Study-2022/blob/main/documents/essentials/2022/%5B0613%5D%20SOQL%20vs%20SQL.md)  
+1-1. [핵심 정리](https://github.com/codepark-kr/Salesforce-Study-2022/blob/main/documents/essentials/2022/%5B0613%5DSOQL%20vs%20SQL_EN.md)  
 
 ---
 
