@@ -190,7 +190,7 @@ You simply select a ready-made public query and automate your process in a few c
 
 ---
 
-## Remark
+## Reference
 [[progress News] [progress Openedge Abl] Sql Or Soql For Your Next Salesforce Analytics Project?](https://www.progresstalk.com/threads/progress-news-progress-openedge-abl-sql-or-soql-for-your-next-salesforce-analytics-project.156435/)
 
 
