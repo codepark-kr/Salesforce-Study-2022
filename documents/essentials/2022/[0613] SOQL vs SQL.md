@@ -2,7 +2,11 @@
 `2022.06.13.`
 
 ### Summary - key difference
-![](../../../assets/sqlsoql/aggregates-group-by-order-by.png)![](../../../assets/sqlsoql/filters.png)![](../../../assets/sqlsoql/filters-(continued).png)![](../../../assets/sqlsoql/inserts-updates-deletes.png)![](../../../assets/sqlsoql/joins.png)![](../../../assets/sqlsoql/sqlsoql.png)
+![](../../../assets/sqlsoql/aggregates-group-by-order-by.png)
+![](../../../assets/sqlsoql/filters.png)
+![](../../../assets/sqlsoql/filters-(continued).png)
+![](../../../assets/sqlsoql/inserts-updates-deletes.png)
+![](../../../assets/sqlsoql/joins.png)![](../../../assets/sqlsoql/sqlsoql.png)
 
 ---
 
