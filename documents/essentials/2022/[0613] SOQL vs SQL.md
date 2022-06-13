@@ -1,13 +1,6 @@
 ## [SOQL vs SQL: Best Practices to Query Salesforce Database](https://skyvia.com/blog/soql-vs-sql-best-practices-to-query-salesforce-database#:~:text=In%20SQL%2C%20the%20data%20is,like%20UPDATE%2C%20INSERT%2C%20etc.)  
 `2022.06.13. - 2022.06.14.`
 
-### Summary - key difference
-![](../../../assets/sqlsoql/aggregates-group-by-order-by.png)
-![](../../../assets/sqlsoql/filters.png)
-![](../../../assets/sqlsoql/filters-(continued).png)
-![](../../../assets/sqlsoql/inserts-updates-deletes.png)
-![](../../../assets/sqlsoql/joins.png)![](../../../assets/sqlsoql/sqlsoql.png)
-
 ---
 
 ### Main Differences Between SOQL and SQL  
@@ -185,6 +178,15 @@ To update the records using DML, we need to first fetch the records that need to
 2. Skyvia Query : It is universal data tool that can connect with any data source and access the data.
 It features an easy-to-use UI for the end-users to view the data or execute SQL queries seamlessly. 
 You simply select a ready-made public query and automate your process in a few clicks.
+
+---
+
+### Summary - key difference
+![](../../../assets/sqlsoql/aggregates-group-by-order-by.png)
+![](../../../assets/sqlsoql/filters.png)
+![](../../../assets/sqlsoql/filters-(continued).png)
+![](../../../assets/sqlsoql/inserts-updates-deletes.png)
+![](../../../assets/sqlsoql/joins.png)![](../../../assets/sqlsoql/sqlsoql.png)
 
 ---
 
