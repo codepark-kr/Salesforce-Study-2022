@@ -1,5 +1,5 @@
 ## [SOQL vs SQL: Best Practices to Query Salesforce Database](https://skyvia.com/blog/soql-vs-sql-best-practices-to-query-salesforce-database#:~:text=In%20SQL%2C%20the%20data%20is,like%20UPDATE%2C%20INSERT%2C%20etc.)  
-`2022.06.13.`
+`2022.06.13. - 2022.06.14.`
 
 ### Summary - key difference
 ![](../../../assets/sqlsoql/aggregates-group-by-order-by.png)
